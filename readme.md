@@ -51,3 +51,8 @@ clean clean package -DskipTests=true -Ptest
 用户名;apollo
 密码;admin
 
+## 3 apollo快速启动
+https://github.com/ctripcorp/apollo/wiki/Quick-Start
+cd /home/
+./demo.sh start
+
